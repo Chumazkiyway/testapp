@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">test_app</string>
+    <string name="users">Users</string>
+    <string name="repos">Repos: %d</string>
+    <string name="gists">Gists: %d</string>
+    <string name="followers">Followers: %d</string>
+    <string name="error_title">Error</string>
+    <string name="error_text">Sorry, but something went wrong</string>
+    <string name="error_btn">Dismiss</string>
+</resources>
